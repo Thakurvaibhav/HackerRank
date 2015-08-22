@@ -1,4 +1,4 @@
-#Angry professor
+#The Angry professor
 
 n = int(raw_input())
 
