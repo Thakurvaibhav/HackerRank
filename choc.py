@@ -1,4 +1,4 @@
-#Problem choc feast python
+#Problem choc feast in python
 
 T = int(raw_input())
 for i in range (0,T):
