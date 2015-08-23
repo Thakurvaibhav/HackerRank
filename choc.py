@@ -1,4 +1,4 @@
-#Chocolate feast problem
+#The Chocolate feast problem
 
 T = int(raw_input())
 for i in range (0,T):
